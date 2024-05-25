@@ -16,11 +16,11 @@ Aplikasi ini memungkinkan pengguna untuk membuat, menghapus, dan menandai tugas 
 
 1. **Clone repository**
    ```sh
-
+   git clone https://github.com/guns-joy/Todo-list-with-tkinter.git
    ```
 2. **Masuk direktori**
    ```sh
-
+     cd Todo-list-with-tkinter
    ```
 3. **Jalankan program**
    ```sh
